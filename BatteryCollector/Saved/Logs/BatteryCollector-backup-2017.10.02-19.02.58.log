@@ -1,0 +1,757 @@
+﻿Log file open, 10/02/17 13:31:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BatteryCollector
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1355552259) SRandInit(1355552259).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 87.903003
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.02-04.31.55:400][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.02-04.31.55:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.02-04.31.56:989][  0]LogInit: Computer: DESKTOP-9TH7LOT
+[2017.10.02-04.31.56:989][  0]LogInit: User: huozi
+[2017.10.02-04.31.56:989][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.02-04.31.56:989][  0]LogInit: High frequency timer resolution =2.648438 MHz
+[2017.10.02-04.31.57:035][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.10.02-04.31.57:035][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.02-04.31.57:035][  0]LogMemory: Process Physical Memory: 284.04 MB used, 284.04 MB peak
+[2017.10.02-04.31.57:035][  0]LogMemory: Process Virtual Memory: 283.55 MB used, 283.55 MB peak
+[2017.10.02-04.31.57:035][  0]LogMemory: Physical Memory: 4353.47 MB used,  3789.82 MB free, 8143.29 MB total
+[2017.10.02-04.31.57:035][  0]LogMemory: Virtual Memory: 703.49 MB used,  3789.82 MB free, 134217728.00 MB total
+[2017.10.02-04.32.08:742][  0]LogInit: Using OS detected language (en-US).
+[2017.10.02-04.32.08:742][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.02-04.32.10:439][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.02-04.32.54:804][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.02-04.32.57:084][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.10.02-04.32.57:084][  0]LogD3D11RHI:       4050/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.02-04.32.57:086][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.02-04.32.57:086][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.02-04.32.57:086][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.02-04.32.57:500][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.02-04.32.57:556][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.02-04.32.57:610][  0]LogWindows: EnumDisplayDevices:
+[2017.10.02-04.32.57:611][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2017.10.02-04.32.57:611][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.10.02-04.32.57:612][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.10.02-04.32.57:612][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.10.02-04.32.57:613][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.02-04.32.57:613][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.10.02-04.32.57:632][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.10.02-04.32.57:632][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.10.02-04.32.57:632][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.02-04.32.58:143][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.02-04.33.00:910][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 13)
+[2017.10.02-04.33.02:685][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Intermediate/Shaders/WorkingDirectory/5356/).
+[2017.10.02-04.33.02:685][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/huozi/AppData/Local/Temp/UnrealShaderWorkingDir/CDFAF503437D66EBEB43829A7E20D794/'.
+[2017.10.02-04.33.02:804][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.02-04.33.53:151][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.02-04.33.53:235][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.02-04.33.53:321][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.02-04.33.53:420][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.02-04.33.53:738][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.02-04.33.53:848][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.02-04.33.53:982][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.02-04.33.54:118][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.02-04.33.54:195][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.02-04.33.54:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.02-04.33.54:547][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.02-04.33.54:731][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.02-04.33.54:859][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.02-04.33.55:051][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.02-04.33.55:152][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.02-04.33.55:331][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.02-04.33.55:331][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.02-04.33.55:407][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.02-04.33.56:227][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.02-04.33.56:347][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.02-04.33.56:541][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.02-04.33.56:686][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.02-04.33.56:852][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.02-04.33.57:684][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.02-04.33.57:684][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.02-04.34.07:963][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.02-04.34.20:351][  0]LogDerivedDataCache: Loaded boot cache 12.28s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.02-04.34.20:351][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.02-04.34.20:367][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.02-04.34.20:367][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.02-04.34.20:367][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.02-04.34.20:367][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.02-04.34.21:229][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.02-04.34.21:414][  0]LogDerivedDataCache: Using Local data cache path C:/Users/huozi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.02-04.34.23:222][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.02-04.34.23:927][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.02-04.34.24:899][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.02-04.34.24:981][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.02-04.35.42:167][  0]LogAssetRegistry: FAssetRegistry took 0.2538 seconds to start up
+[2017.10.02-04.35.59:026][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.02-04.36.32:996][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.02-04.36.46:351][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.02-04.36.46:966][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.02-04.36.47:034][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.02-04.36.47:034][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.02-04.36.47:034][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.02-04.36.47:034][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.02-04.37.20:272][  0]LogNetVersion: BatteryCollector , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2326356035)
+[2017.10.02-04.37.35:525][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 2.072025 seconds
+[2017.10.02-04.37.35:876][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.02-04.37.35:876][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.02-04.37.35:943][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.02-04.37.36:181][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.02-04.40.04:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.02-04.40.04:122][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.02-04.40.34:238][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.02-04.40.38:793][  0]SourceControl: Source control is disabled
+[2017.10.02-04.40.38:793][  0]SourceControl: Source control is disabled
+[2017.10.02-04.40.41:739][  0]SourceControl: Source control is disabled
+[2017.10.02-04.40.41:951][  0]SourceControl: Source control is disabled
+[2017.10.02-04.40.46:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.02-04.40.47:100][  0]LogOcInput: OculusInput pre-init called
+[2017.10.02-04.40.51:297][  0]LogEngine: Initializing Engine...
+[2017.10.02-04.40.51:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.02-04.40.56:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.02-04.40.56:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.02-04.41.01:439][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.02-04.41.03:600][  0]LogInit: Failed to create XAudio2 interface
+[2017.10.02-04.41.08:658][  0]LogDerivedDataCache: Saved boot cache 4.74s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.02-04.41.08:886][  0]LogInit: Texture streaming: Enabled
+[2017.10.02-04.41.11:967][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.02-04.41.11:978][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E45FF0EC-4E2A-F71F-8EBD-4FA41BFC4160}
+[2017.10.02-04.41.18:260][  0]LogInit: Transaction tracking system initialized
+[2017.10.02-04.41.21:992][  0]BlueprintLog: New page: Editor Load
+[2017.10.02-04.41.33:335][  0]LocalizationService: Localization service is disabled
+[2017.10.02-04.41.43:199][  0]LogConsoleResponse: Display: 
+[2017.10.02-04.41.57:724][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/' took 0.15s
+[2017.10.02-04.41.57:724][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.02-04.41.57:749][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.02-04.41.57:999][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.02-04.42.11:760][  0]SourceControl: Source control is disabled
+[2017.10.02-04.42.16:184][  0]LogSlate: Took 0.445832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.02-04.43.22:789][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-04.43.22:932][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-04.43.29:599][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-04.43.29:868][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-04.43.30:740][  0]Cmd: MAP LOAD FILE="../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Untitled_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.02-04.43.30:803][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Untitled_1.umap'
+[2017.10.02-04.43.30:984][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.02-04.43.31:259][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 275.706ms to complete.
+[2017.10.02-04.43.31:290][  0]LogFileHelpers: Loading map 'Untitled_1' took 1.354
+[2017.10.02-04.43.44:922][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_37f8_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_7e8_0///####STATCAT_Advanced####
+[2017.10.02-04.43.44:922][  0]LogCollectionManager: Loaded 0 collections in 0.001862 seconds
+[2017.10.02-04.43.48:175][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Collections/' took 0.01s
+[2017.10.02-04.43.48:175][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Developers/huozi/Collections/' took 0.01s
+[2017.10.02-04.43.48:175][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Collections/' took 0.01s
+[2017.10.02-04.43.48:175][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.02-04.43.48:827][  0]LogContentBrowser: Native class hierarchy populated in 0.5283 seconds. Added 2391 classes and 502 folders.
+[2017.10.02-04.43.49:914][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2017.10.02-04.44.06:344][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0031 seconds. Added 0 classes and 0 folders.
+[2017.10.02-04.44.07:756][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0027 seconds. Added 1 classes and 2 folders.
+[2017.10.02-04.44.23:806][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0025 seconds. Added 1 classes and 2 folders.
+[2017.10.02-04.44.23:806][  0]LogLoad: (Engine Initialization) Total time: 963.62 seconds
+[2017.10.02-04.44.23:806][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.02-04.44.23:887][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.02-04.44.23:887][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.02-04.44.28:802][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.02-04.44.29:117][  0]LogSlate: Took 0.168223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.02-04.44.31:056][  0]LogSlate: Took 0.240107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.02-04.44.42:055][  1]LogRenderer: Reallocating scene render targets to support 980x480 Format 10 NumSamples 1 (Frame:1).
+[2017.10.02-04.44.48:227][  1]LogSlate: Took 0.713890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.02-04.44.56:090][  3]LogAssetRegistry: Asset discovery search completed in 554.0403 seconds
+[2017.10.02-04.44.56:164][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.10.02-04.44.56:212][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.054863 seconds (updated 0 objects)
+[2017.10.02-04.59.57:209][953]LogSlate: Took 0.907914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.02-05.00.30:250][664]LogSlate: Took 0.439835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.02-05.01.17:570][664]LogAIModule: Creating AISystem for world Sample
+[2017.10.02-05.01.33:941][664]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.02-05.01.59:462][664]LogMetaData: Removing '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2017.10.02-05.01.59:462][664]LogMetaData: Removing '/Game/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2017.10.02-05.02.04:558][664]LogSavePackage: Save=557.13ms
+[2017.10.02-05.02.04:558][664]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Sample3D49E6BF4A401F57264370A3009A1594.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap'
+[2017.10.02-05.02.04:603][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap
+[2017.10.02-05.02.04:664][664]LogFileHelpers: Saving map 'Sample' took 4.985
+[2017.10.02-05.02.05:310][664]LogSavePackage: Save=637.22ms
+[2017.10.02-05.02.05:310][664]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Sample_BuiltDataC0388E874B139D3B055F8EAEFC955A62.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample_BuiltData.uasset'
+[2017.10.02-05.02.05:313][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample_BuiltData.uasset
+[2017.10.02-05.02.06:750][664]LogSavePackage: Save=311.77ms
+[2017.10.02-05.02.06:750][664]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/ThirdPersonExampleMap0DA4FF8B46745816A546F3B6CDF437F7.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap.umap'
+[2017.10.02-05.02.06:755][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap.umap
+[2017.10.02-05.02.06:758][664]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.442
+[2017.10.02-05.02.07:537][664]LogSavePackage: Save=772.48ms
+[2017.10.02-05.02.07:539][664]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/ThirdPersonExampleMap_BuiltData6453678A4318999C6FFBF9ABBA6EEEDE.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.10.02-05.02.07:545][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.10.02-05.02.36:892][137]LogSavePackage: Save=53.38ms
+[2017.10.02-05.02.36:892][137]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/SampleEA4E471945F46C15AE03F0AB73ACFD2F.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap'
+[2017.10.02-05.02.36:896][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap
+[2017.10.02-05.02.36:900][137]LogFileHelpers: Saving map 'Sample' took 19.545
+[2017.10.02-05.02.37:084][137]LogSavePackage: Save=78.44ms
+[2017.10.02-05.02.37:084][137]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/ThirdPersonExampleMap049DB1B543D05990EB2C0B966A0AE74C.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap.umap'
+[2017.10.02-05.02.37:089][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap.umap
+[2017.10.02-05.02.37:091][137]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.191
+[2017.10.02-05.02.37:093][137]Cmd: MAP LOAD FILE="../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.02-05.02.37:186][137]LightingResults: New page: Lighting Build
+[2017.10.02-05.02.58:227][137]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0070 seconds. Added 5 classes and 0 folders.
+[2017.10.02-05.02.58:348][137]LoadErrors: New page: Loading map: Sample.umap
+[2017.10.02-05.02.58:813][137]MapCheck: New page: Map Check
+[2017.10.02-05.02.58:814][137]LightingResults: New page: Lighting Build
+[2017.10.02-05.03.14:080][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.02-05.03.15:936][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.02-05.04.12:029][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56,092.485ms to complete.
+[2017.10.02-05.04.12:033][137]LogFileHelpers: Loading map 'Sample' took 94.942
+[2017.10.02-05.04.35:050][ 65]LogEditorViewport: Clicking on Actor (context menu): BP_DemoRoom_C (BP_DemoRoom)
+[2017.10.02-05.05.03:887][ 66]LogWindows: LaunchFileInExternalEditor C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Source/BatteryCollector/SpawnVolume.h 
+[2017.10.02-05.05.22:051][ 66]LogWindows: Launch application code for C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Source/BatteryCollector/SpawnVolume.h : 42
+[2017.10.02-05.05.22:051][ 66]LogWindows: LaunchFileInExternalEditor C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Source/BatteryCollector/SpawnVolume.cpp 
+[2017.10.02-05.05.22:521][ 66]LogWindows: Launch application code for C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Source/BatteryCollector/SpawnVolume.cpp : 42
+[2017.10.02-05.05.22:521][ 66]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:525][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:526][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:527][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:528][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:529][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:530][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:531][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:532][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:532][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.22:533][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:517][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:518][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:518][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:518][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:518][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:518][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.32:518][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.36:712][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.36:712][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.36:715][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.05.36:718][ 66]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-05.12.06:577][376]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.02-05.12.15:469][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Sample' took 0.013
+[2017.10.02-05.12.15:842][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sample_BuiltData] ([1] browsable assets)...
+[2017.10.02-05.12.15:842][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sample_BuiltData]
+[2017.10.02-05.12.24:883][402]Error: Cannot save asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2017.10.02-05.12.24:883][402]Warning: Asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2017.10.02-05.22.26:101][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Sample' took 0.018
+[2017.10.02-05.22.26:103][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sample_BuiltData] ([1] browsable assets)...
+[2017.10.02-05.22.26:103][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sample_BuiltData]
+[2017.10.02-05.22.32:775][202]Error: Cannot save asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2017.10.02-05.22.32:775][202]Warning: Asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2017.10.02-05.32.33:458][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Sample' took 0.012
+[2017.10.02-05.32.33:461][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sample_BuiltData] ([1] browsable assets)...
+[2017.10.02-05.32.33:461][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sample_BuiltData]
+[2017.10.02-05.32.35:055][  4]Error: Cannot save asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2017.10.02-05.32.35:055][  4]Warning: Asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2017.10.02-05.42.35:323][805]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Sample' took 0.017
+[2017.10.02-05.42.35:382][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sample_BuiltData] ([1] browsable assets)...
+[2017.10.02-05.42.35:382][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sample_BuiltData]
+[2017.10.02-05.42.38:877][805]Error: Cannot save asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2017.10.02-05.42.38:878][805]Warning: Asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2017.10.02-05.52.39:514][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Sample' took 0.036
+[2017.10.02-05.52.39:516][575]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sample_BuiltData] ([1] browsable assets)...
+[2017.10.02-05.52.39:517][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sample_BuiltData]
+[2017.10.02-05.52.42:645][575]Error: Cannot save asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2017.10.02-05.52.42:645][575]Warning: Asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2017.10.02-06.02.42:835][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Sample' took 0.013
+[2017.10.02-06.02.42:838][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sample_BuiltData] ([1] browsable assets)...
+[2017.10.02-06.02.42:838][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sample_BuiltData]
+[2017.10.02-06.02.46:356][376]Error: Cannot save asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2017.10.02-06.02.46:356][376]Warning: Asset '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Autosaves/Game/Maps/Sample./Game/Maps/Sample_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2017.10.02-06.09.19:062][549]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-06.09.19:395][549]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2017.10.02-06.11.08:318][549]LogSavePackage: Save=471.04ms
+[2017.10.02-06.11.08:318][549]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/SampleF7057A3B4AA18B233B3A7CB05CB3022C.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap'
+[2017.10.02-06.11.08:364][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/Sample.umap
+[2017.10.02-06.11.08:732][549]LogFileHelpers: Saving map 'Sample' took 108.368
+[2017.10.02-06.11.09:860][549]LogSavePackage: Save=327.79ms
+[2017.10.02-06.11.09:860][549]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/ThirdPersonExampleMapED1774EB4C2E02BA5901FE921E6F65CD.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap.umap'
+[2017.10.02-06.11.09:867][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Maps/ThirdPersonExampleMap.umap
+[2017.10.02-06.11.09:871][549]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.127
+[2017.10.02-06.11.17:286][550]Cmd: QUIT_EDITOR
+[2017.10.02-06.11.21:335][550]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2017.10.02-06.11.22:157][550]LogExit: Preparing to exit.
+[2017.10.02-06.11.27:974][550]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/' was aborted.
+[2017.10.02-06.11.29:843][550]LogExit: Editor shut down
+[2017.10.02-06.11.29:937][550]LogExit: Transaction tracking system shut down
+[2017.10.02-06.11.32:275][550]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.02-06.11.32:275][550]LogDirectoryWatcher: A directory notification for '../../../../../../Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/' was aborted.
+[2017.10.02-06.11.32:275][550]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.02-06.11.32:275][550]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.02-06.11.32:275][550]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.02-06.11.51:997][550]LogExit: Object subsystem successfully closed.
+[2017.10.02-06.11.54:433][550]LogD3D11RHI: Shutdown
+[2017.10.02-06.11.54:450][550]LogD3D11RHI: CleanupD3DDevice
+[2017.10.02-06.11.56:387][550]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.02-06.12.11:502][550]LogModuleManager: Shutting down and abandoning module StatsViewer (532)
+[2017.10.02-06.12.11:646][550]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.02-06.12.11:646][550]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.02-06.12.11:665][550]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.02-06.12.11:801][550]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.02-06.12.11:809][550]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.02-06.12.11:809][550]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.02-06.12.11:809][550]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.02-06.12.12:025][550]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Collections/' was aborted.
+[2017.10.02-06.12.12:025][550]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Content/Developers/huozi/Collections/' was aborted.
+[2017.10.02-06.12.12:025][550]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Saved/Collections/' was aborted.
+[2017.10.02-06.12.12:025][550]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.10.02-06.12.12:051][550]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.10.02-06.12.12:697][550]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.10.02-06.12.12:762][550]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.10.02-06.12.12:762][550]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.10.02-06.12.12:762][550]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.10.02-06.12.12:762][550]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.10.02-06.12.12:762][550]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.10.02-06.12.12:805][550]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.10.02-06.12.12:805][550]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.10.02-06.12.12:805][550]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.10.02-06.12.12:879][550]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.10.02-06.12.13:017][550]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.10.02-06.12.13:127][550]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.10.02-06.12.13:675][550]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.10.02-06.12.13:675][550]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.10.02-06.12.13:675][550]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.10.02-06.12.13:676][550]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.10.02-06.12.13:814][550]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.10.02-06.12.13:814][550]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.10.02-06.12.13:814][550]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.10.02-06.12.13:814][550]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.10.02-06.12.13:814][550]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.10.02-06.12.14:238][550]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.10.02-06.12.14:810][550]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.10.02-06.12.14:990][550]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.10.02-06.12.15:179][550]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.10.02-06.12.15:225][550]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.10.02-06.12.15:225][550]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.10.02-06.12.15:225][550]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.10.02-06.12.16:005][550]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.10.02-06.12.16:005][550]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.10.02-06.12.16:005][550]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.10.02-06.12.16:005][550]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.10.02-06.12.16:058][550]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.10.02-06.12.16:128][550]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.10.02-06.12.16:128][550]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.10.02-06.12.16:197][550]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.10.02-06.12.16:251][550]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.10.02-06.12.16:264][550]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.10.02-06.12.16:329][550]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.10.02-06.12.16:329][550]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.10.02-06.12.16:346][550]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.10.02-06.12.16:347][550]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.10.02-06.12.16:365][550]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.10.02-06.12.16:365][550]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.10.02-06.12.16:365][550]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.10.02-06.12.16:365][550]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.10.02-06.12.16:365][550]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.10.02-06.12.16:430][550]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.10.02-06.12.16:443][550]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.10.02-06.12.16:458][550]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.10.02-06.12.16:482][550]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.10.02-06.12.16:645][550]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.10.02-06.12.16:700][550]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.10.02-06.12.16:916][550]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.10.02-06.12.17:143][550]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.10.02-06.12.17:258][550]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.10.02-06.12.17:258][550]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.10.02-06.12.17:396][550]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.10.02-06.12.17:397][550]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.10.02-06.12.17:827][550]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.10.02-06.12.17:827][550]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.10.02-06.12.17:859][550]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.10.02-06.12.17:956][550]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.10.02-06.12.18:145][550]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.10.02-06.12.18:145][550]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.10.02-06.12.18:252][550]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.10.02-06.12.18:928][550]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.10.02-06.12.19:154][550]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.10.02-06.12.19:309][550]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.10.02-06.12.19:309][550]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.10.02-06.12.19:368][550]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.10.02-06.12.19:368][550]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.10.02-06.12.19:368][550]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.10.02-06.12.19:722][550]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.10.02-06.12.19:846][550]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.10.02-06.12.19:938][550]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.10.02-06.12.20:108][550]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.10.02-06.12.20:153][550]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.10.02-06.12.20:276][550]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.10.02-06.12.20:276][550]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.10.02-06.12.20:276][550]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.10.02-06.12.20:276][550]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.10.02-06.12.20:313][550]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.10.02-06.12.20:313][550]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.10.02-06.12.20:313][550]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.10.02-06.12.20:313][550]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.10.02-06.12.20:313][550]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.10.02-06.12.20:313][550]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.10.02-06.12.21:119][550]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.10.02-06.12.21:119][550]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.10.02-06.12.21:135][550]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.10.02-06.12.21:135][550]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.10.02-06.12.21:135][550]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.10.02-06.12.21:135][550]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.10.02-06.12.21:135][550]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.10.02-06.12.21:362][550]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.10.02-06.12.21:559][550]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.10.02-06.12.21:559][550]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.10.02-06.12.21:827][550]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.10.02-06.12.21:827][550]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.10.02-06.12.22:086][550]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.10.02-06.12.22:179][550]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.10.02-06.12.22:353][550]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.10.02-06.12.22:363][550]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.10.02-06.12.22:363][550]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.10.02-06.12.22:363][550]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.10.02-06.12.22:363][550]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.10.02-06.12.22:449][550]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.10.02-06.12.22:469][550]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.10.02-06.12.22:640][550]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.10.02-06.12.22:795][550]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.10.02-06.12.22:796][550]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.10.02-06.12.22:859][550]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/BatteryCollectorCPP/BatteryCollector/Binaries/Win64' was aborted.
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module BatteryCollector (262)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.02-06.12.22:987][550]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.02-06.12.23:088][550]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.02-06.12.23:189][550]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.02-06.12.23:671][550]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.02-06.12.23:787][550]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.02-06.12.23:787][550]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.02-06.12.23:787][550]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.02-06.12.23:895][550]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.02-06.12.24:082][550]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.02-06.12.24:086][550]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.02-06.12.24:086][550]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.02-06.12.24:130][550]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.02-06.12.24:210][550]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.02-06.12.24:237][550]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.02-06.12.24:238][550]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.02-06.12.24:323][550]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.02-06.12.24:389][550]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.02-06.12.24:389][550]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.02-06.12.24:389][550]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.02-06.12.24:389][550]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.02-06.12.24:461][550]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.02-06.12.24:596][550]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.02-06.12.24:597][550]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.02-06.12.24:900][550]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.02-06.12.24:900][550]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.02-06.12.25:097][550]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.02-06.12.25:097][550]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.02-06.12.25:445][550]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.02-06.12.25:818][550]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.02-06.12.26:035][550]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.02-06.12.26:060][550]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.02-06.12.26:245][550]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.02-06.12.26:245][550]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.02-06.12.26:481][550]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.02-06.12.26:482][550]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.02-06.12.26:737][550]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.02-06.12.26:779][550]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.02-06.12.26:779][550]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.02-06.12.26:868][550]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.02-06.12.26:868][550]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.02-06.12.26:904][550]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.02-06.12.26:965][550]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.02-06.12.26:978][550]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.02-06.12.27:083][550]LogDerivedDataCache: Shutdown
+[2017.10.02-06.12.27:117][550]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.02-06.12.27:240][550]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.02-06.12.27:287][550]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.02-06.12.27:376][550]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.02-06.12.27:438][550]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.02-06.12.27:460][550]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.02-06.12.27:529][550]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.02-06.12.27:529][550]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.02-06.12.27:529][550]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.02-06.12.27:656][550]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.02-06.12.27:852][550]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.02-06.12.27:852][550]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.02-06.12.27:852][550]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.02-06.12.27:852][550]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.02-06.12.27:852][550]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.02-06.12.27:852][550]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.02-06.12.27:959][550]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.02-06.12.27:960][550]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.02-06.12.27:962][550]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.02-06.12.28:054][550]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.02-06.12.28:055][550]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.02-06.12.28:055][550]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.02-06.12.28:055][550]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.02-06.12.28:293][550]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.02-06.12.28:337][550]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.02-06.12.28:337][550]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.02-06.12.28:427][550]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86228CC9-4E68-E868-0075-D5AEC13656F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a483da2d4fb89f4a2ddae281c3e89937%7C1475575a18e14080ac0ee1b5b0c163b7%7Cd7277f1c-046d-4f6a-97e4-5e4f1c368f9a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.02-06.12.28:462][550]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.02-06.12.29:013][550]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.02-06.12.29:151][550]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.02-06.12.29:151][550]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.02-06.12.30:530][550]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.02-06.12.30:653][550]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.02-06.12.30:653][550]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.02-06.12.30:653][550]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.02-06.12.31:381][550]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.02-06.12.31:472][550]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.02-06.12.31:472][550]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.02-06.12.31:634][550]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.02-06.12.31:634][550]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.02-06.12.31:634][550]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.02-06.12.31:634][550]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.02-06.12.31:718][550]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.02-06.12.31:718][550]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.02-06.12.31:784][550]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.02-06.12.31:910][550]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.02-06.12.32:229][550]LogExit: Exiting.
+[2017.10.02-06.12.32:260][550]Log file closed, 10/02/17 15:12:32

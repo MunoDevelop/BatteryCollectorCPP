@@ -1,0 +1,16 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for BatteryCollectorEditor
+    Running UnrealHeaderTool "C:\Users\huozi\Documents\Unreal Projects\BatteryCollectorCPP\BatteryCollector\BatteryCollector.uproject" "C:\Users\huozi\Documents\Unreal Projects\BatteryCollectorCPP\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BatteryCollectorEditor in 10.6099693 seconds
+  Performing 7 actions (4 in parallel)
+  BatteryCollectorCharacter.cpp
+  BatteryCollector.init.gen.cpp
+  Pickup.cpp
+  BatteryCollectorGameMode.cpp
+  BatteryCollectorCharacter.gen.cpp
+  [6/7] Link UE4Editor-BatteryCollector-2469.dll
+  [7/7] Link UE4Editor-BatteryCollector-2469.lib
+     Creating library C:\Users\huozi\Documents\Unreal Projects\BatteryCollectorCPP\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2469.lib and object C:\Users\huozi\Documents\Unreal Projects\BatteryCollectorCPP\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2469.exp
+     Creating library C:\Users\huozi\Documents\Unreal Projects\BatteryCollectorCPP\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2469.suppressed.lib and object C:\Users\huozi\Documents\Unreal Projects\BatteryCollectorCPP\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2469.suppressed.exp
+  Deploying BatteryCollectorEditor Win64 Development...
+  Total build time: 94.78 seconds (Local executor: 14.94 seconds)
