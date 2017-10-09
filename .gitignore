@@ -303,6 +303,6 @@ __pycache__/
 
 #just ignore
 *.db
-
+*.pdb
 # OpenCover UI analysis results
 OpenCover/
